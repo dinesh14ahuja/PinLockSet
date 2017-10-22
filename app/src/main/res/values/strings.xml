@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PinLockView</string>
+    <string name="Pref_File">Shared_Pref_File</string>
+    <string name="Pin">pin</string>
+</resources>
